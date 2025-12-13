@@ -629,6 +629,13 @@
     name = "Arjan Schrijver";
     source = "nixpkgs";
   };
+  arunoruto = {
+    email = "mirza.arnaut45@gmail.com";
+    github = "arunoruto";
+    githubId = 21687187;
+    name = "Mirza Arnaut";
+    source = "nixpkgs";
+  };
   asymmetric = {
     email = "lorenzo@mailbox.org";
     github = "asymmetric";
@@ -2302,6 +2309,13 @@
       }
     ];
     name = "Florian Peter";
+    source = "nixpkgs";
+  };
+  xavwe = {
+    email = "git@xavwe.dev";
+    github = "xavwe";
+    githubId = 125409009;
+    name = "Xaver Wenhart";
     source = "nixpkgs";
   };
   xlambein = {
